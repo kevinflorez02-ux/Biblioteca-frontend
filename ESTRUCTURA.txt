@@ -1,0 +1,16 @@
+SISTEMA DE GESTIÓN BIBLIOTECARIA - FRONTEND
+
+Arquitectura:
+Capa de Presentación
+
+Carpetas principales:
+- src/pages/: pantallas organizadas por módulo del sistema.
+- src/components/: componentes reutilizables.
+- src/services/: comunicación con la API del backend.
+- src/assets/: imágenes, iconos y recursos visuales.
+- src/styles/: estilos de la aplicación.
+- src/config/: configuración del frontend.
+- public/: archivos públicos.
+- docs/: documentación del frontend.
+
+Este repositorio representa el Contenedor Frontend del diagrama de arquitectura.
